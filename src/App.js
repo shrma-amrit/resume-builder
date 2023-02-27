@@ -1,5 +1,7 @@
+import Root from "./routes/root";
+
 function App() {
-  return <div>Hello</div>;
+  return <Root />;
 }
 
 export default App;

@@ -9,9 +9,9 @@
     "parcel": "^2.8.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "tailwindcss": "^3.2.7"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "parcel ./public/index.html --open",
@@ -40,6 +40,7 @@
   "devDependencies": {
     "@parcel/config-default": "^2.8.3",
     "@parcel/transformer-svg-react": "^2.8.3",
+    "tailwindcss": "^3.2.7",
     "autoprefixer": "^10.4.13",
     "flow-bin": "^0.200.1",
     "parcel-bundler": "^1.12.5",
