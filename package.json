@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "parcel ./public/index.html --open",
-    "build": "rm -rf dist && parcel build ./public/index.html --public-url https://github.com/shrma-amrit/resume-builder",
+    "build": "rm -rf dist && parcel build ./public/index.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
